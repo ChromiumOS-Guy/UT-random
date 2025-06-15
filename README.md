@@ -1,7 +1,7 @@
 # UT-random
 random repository of handy UT commands with obscure documentation 
 
-#CT (Cell BroadCast):
+# CT (Cell BroadCast):
 (courtesy of @lduboeuf in @ubports_devel telegram group
 get channels
 ```
