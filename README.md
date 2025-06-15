@@ -9,5 +9,5 @@ random repository of handy UT commands with obscure documentation, if you're nam
   ```
 * set channels
   ```
-  Set Topics: dbus-send --system --print-reply --dest=org.ofono /ril_0 org.ofono.CellBroadcast.SetProperty string:'Topics' variant:string:'4371-4380,4396'
+  dbus-send --system --print-reply --dest=org.ofono /ril_0 org.ofono.CellBroadcast.SetProperty string:'Topics' variant:string:'919-928,4352-4354,4356,4370-4380,4383-4392,4396-4397,4400'
   ```
