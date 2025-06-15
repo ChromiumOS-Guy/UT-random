@@ -1,5 +1,5 @@
 # UT-random
-random repository of handy UT commands with obscure documentation 
+random repository of handy UT commands with obscure documentation, if you're name is here and you'd like to take it down DM on telegram or open an Issue.
 
 ## CT (Cell BroadCast):
 (courtesy of @lduboeuf in @ubports_devel telegram group)
