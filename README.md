@@ -30,6 +30,7 @@ random repository of handy UT commands with obscure documentation and some scrip
   ```
 
 ## Time Format:
+see: https://github.com/AyatanaIndicators/ayatana-indicator-datetime/issues/144
 * set format:
   ```shell
   gsettings set org.ayatana.indicator.datetime time-format 'format'
